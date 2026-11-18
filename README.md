@@ -1,5 +1,3 @@
-Ahmad Mu'azim Abidin
-
 I build small, boring, offline-first software — and ready-made web templates for a living.
 
 Open source
